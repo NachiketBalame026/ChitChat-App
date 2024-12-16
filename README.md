@@ -29,14 +29,12 @@ ChitChat-App is a modern real-time messaging application built using the MERN st
 ## Screenshots
 
 ### Home Page
-```html
 <img src="https://github.com/user-attachments/assets/39acf0c5-d189-49b1-a737-9cb76e1e531c" alt="Home Page Screenshot" width="800" />
-```
+
 
 ### Chat Window
-```html
 <img src="https://github.com/user-attachments/assets/b0ce1d1d-3dba-476a-9a3c-92400f45dfb8" alt="Chat Window Screenshot" width="800" />
-```
+
 ---
 
 ## Usage
